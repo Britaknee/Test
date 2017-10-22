@@ -2,6 +2,7 @@ public class Method{
 
     public static void main(String[] args) {
 		loveAndHate(5);
+		carrotCake(5,10,15,20);
 	}
 
     private static void loveAndHate(int n) {
@@ -20,5 +21,29 @@ public class Method{
             }
         }
         System.out.print("it");
+
+   }
+
+   public String carrotCake(int n, int t, int k, int d){
+	   int a = n;
+	   int temp = (int) Math.ceil((double)n/k);
+
+	   int timeTakenNormal = temp*t;
+	   int timeTakenOven = d;
+
+	   a=(a-(d/t))*k;
+
+	   while(a>0){
+		   a=a-(2*k);
+		   timeTakenOven=timeTakenOven + t;
+	   } if (k >= n) {
+		   return "NO";
+	   } else{
+		   if(timeTakenNormal > timeTakenOven) {
+			   return "YES";
+		   }else{
+			   return "NO";
+		   }
+	   }
    }
 }

@@ -3,6 +3,7 @@ public class Method{
     public static void main(String[] args) {
 		loveAndHate(5);
 		carrotCake(5,10,15,20);
+		System.out.println("This is an example");
 	}
 
     private static void loveAndHate(int n) {

@@ -4,7 +4,7 @@ public class Method{
 		loveAndHate(5);
 		carrotCake(5,10,15,20);
 		System.out.println("This is an example");
-	        //Janine
+	        //Janine Q Doria ... HAHAHAHAHAHA
     	}
 
     private static void loveAndHate(int n) {

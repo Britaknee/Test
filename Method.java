@@ -5,7 +5,7 @@ public class Method{
 		carrotCake(5,10,15,20);
 		System.out.println("This is an example");
 <<<<<<< HEAD
-	        //Janine Q Doria ... HAHAHAHAHAHA
+	        //Janine
     	}
 =======
 	        //Britanny

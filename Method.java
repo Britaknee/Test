@@ -4,8 +4,14 @@ public class Method{
 		loveAndHate(5);
 		carrotCake(5,10,15,20);
 		System.out.println("This is an example");
+<<<<<<< HEAD
 	        //Janine Q Doria ... HAHAHAHAHAHA
     	}
+=======
+	        //Britanny
+		//Christine
+	}
+>>>>>>> 5dab5c84c19a7a470e46c73ad9cd94a18d0c8dca
 
     private static void loveAndHate(int n) {
         for(int i = 0; i < n; i++) {

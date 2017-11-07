@@ -5,6 +5,7 @@ public class Method{
 		carrotCake(5,10,15,20);
 		System.out.println("This is an example");
 		//BUTO
+		//BUTOL
 	}
 
     private static void loveAndHate(int n) {

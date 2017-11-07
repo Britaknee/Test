@@ -6,6 +6,7 @@ public class Method{
 		System.out.println("This is an example");
 		//BUTO
 		//BUTOL
+		//BUTOLA
 	}
 
     private static void loveAndHate(int n) {

@@ -10,6 +10,7 @@ public class Method{
 =======
 	        //Britanny
 		//Christine
+		//Dion Pangit
 	}
 >>>>>>> 5dab5c84c19a7a470e46c73ad9cd94a18d0c8dca
 
